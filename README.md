@@ -4,22 +4,30 @@ Ich möchte hier verschiedene Möglichkeiten vorstellen die mit dem uArm swift p
 Zu den einzelnen Projekten:
 
 uarm_sort_red.py
+
 Ich habe eine kleine Anwendung geschrieben, die es ermöglicht, den Roboterarm mit OpenCV zu steuern. Die größte Herausforderung zu Beginn war die Übersetzung der Bildschirmkoordinaten von OpenCV. Ich habe das in Form eines Arrays gelöst, aber vielleicht gibt es hier noch bessere Möglichkeiten.
 Die Anwendung zeigt eine einfache Sortierung von roten Objekten. Es besteht aber auch die Möglichkeit, nach Farben und Formen zu sortieren. Die umfangreichen OpenCV-Publikationen helfen hier.
+
 https://youtu.be/HxMarRPgcnY
 
-uarm_tkinter_püosi.py
+uarm_tkinter_posi.py
+
 ein kleines Pyton / Tkinter-Programm mit dem Ihr verschiedene Positionen testen und die Koordinaten für weitere Aktionen verwenden könnt.
 
 uarm_turm.py
+
 ein kleines Python Programm zur Inspiration für eigene Projekte.
+
 https://youtu.be/v5jNyLZzXjk
 
 uarm_sort_kreis.py
+
 Die Programmierung ist sicherlich nicht perfekt (ich habe nur ein paar Wochen mit Python gearbeitet), aber es zeigt die Möglichkeiten der Verwendung von Uarm swift pro, Python, Tkinter und OpenCV.
+
 https://youtu.be/DaOhIChAPGc
 
 uarm_turm.py
+
 Die Spielidee stammt aus dem Buch:
 
 Eigene Spiele programmieren – Python lernen: Der spielerische Weg zur Programmiersprache11. September 2017
@@ -39,5 +47,6 @@ ISBN-13: 978-1593277956
 
 Ich habe den Code für den Roboterarm hinzugefügt.
 Der Code ist sicherlich nicht perfekt, aber er sollte Mut für eigene Projekte haben.
+
 https://youtu.be/ezaF2YjDesU
 
