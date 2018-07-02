@@ -20,6 +20,7 @@ Es wird ein Turm gebaut, ein kleines Python Programm zur Inspiration für eigene
 https://youtu.be/v5jNyLZzXjk
 
 **uarm_sort_kreis.py**
+
 Aufnehmen und sortieren nach Kreisdurchmesser.
 Die Programmierung ist sicherlich nicht perfekt (ich habe nur ein paar Wochen mit Python gearbeitet), aber es zeigt die Möglichkeiten der Verwendung von Uarm swift pro, Python, Tkinter und OpenCV.
 
