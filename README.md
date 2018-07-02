@@ -5,8 +5,6 @@ Zu den einzelnen Projekten:
 
 **uarm_sort_red.py**
 
-![nur ein Beispiel](https://commons.wikimedia.org/wiki/File:Example_de.jpg "Beispielbild")
-
 Ich habe eine kleine Anwendung geschrieben, die es ermöglicht, den Roboterarm mit OpenCV zu steuern. Die größte Herausforderung zu Beginn war die Übersetzung der Bildschirmkoordinaten von OpenCV. Ich habe das in Form eines Arrays gelöst, aber vielleicht gibt es hier noch bessere Möglichkeiten.
 Die Anwendung zeigt eine einfache Sortierung von roten Objekten. Es besteht aber auch die Möglichkeit, nach Farben und Formen zu sortieren. Die umfangreichen OpenCV-Publikationen helfen hier.
 
