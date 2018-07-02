@@ -5,6 +5,8 @@ Zu den einzelnen Projekten:
 
 **uarm_sort_red.py**
 
+![nur ein Beispiel](http://hdn.de/ua_sort_red.JPG)
+
 Ich habe eine kleine Anwendung geschrieben, die es ermöglicht, den Roboterarm mit OpenCV zu steuern. Die größte Herausforderung zu Beginn war die Übersetzung der Bildschirmkoordinaten von OpenCV. Ich habe das in Form eines Arrays gelöst, aber vielleicht gibt es hier noch bessere Möglichkeiten.
 Die Anwendung zeigt eine einfache Sortierung von roten Objekten. Es besteht aber auch die Möglichkeit, nach Farben und Formen zu sortieren. Die umfangreichen OpenCV-Publikationen helfen hier.
 
@@ -15,19 +17,19 @@ https://youtu.be/HxMarRPgcnY
 ein kleines Pyton / Tkinter-Programm mit dem Ihr verschiedene Positionen testen und die Koordinaten für weitere Aktionen verwenden könnt.
 
 **uarm_turm.py**
-
-ein kleines Python Programm zur Inspiration für eigene Projekte.
+Es wird ein Turm gebaut, ein kleines Python Programm zur Inspiration für eigene Projekte.
 
 https://youtu.be/v5jNyLZzXjk
 
 **uarm_sort_kreis.py**
-
+Aufnehmen und sortieren nach Kreisdurchmesser.
 Die Programmierung ist sicherlich nicht perfekt (ich habe nur ein paar Wochen mit Python gearbeitet), aber es zeigt die Möglichkeiten der Verwendung von Uarm swift pro, Python, Tkinter und OpenCV.
 
 https://youtu.be/DaOhIChAPGc
 
-**uarm_turm.py**
+**uarm_ttt.py**
 
+Hier wird Tic Tac Toe gespielt, ein bisschen KI und Robotic.
 Die Spielidee stammt aus dem Buch:
 
 Eigene Spiele programmieren – Python lernen: Der spielerische Weg zur Programmiersprache11. September 2017
