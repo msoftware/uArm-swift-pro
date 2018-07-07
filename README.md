@@ -59,7 +59,7 @@ Ein kleines Beispiel, wie der Xbox Controller den Uarm swift pro steuern kann.
 X,Y,Z, Suction, Greifer und Handgelenk sind steuerbar.
 Das Python-Programm ist sehr einfach und funktioniert sicher auch mit anderen Controllern.
 
-**uArm_vs_uArm.py
+**uArm_vs_uArm.py**
 
 Ein kleines Beispiel mir zwei Robotic Arms die gegeneinander Tic Tac Toe spielen.
 
