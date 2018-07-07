@@ -63,13 +63,9 @@ Das Python-Programm ist sehr einfach und funktioniert sicher auch mit anderen Co
 
 Ein kleines Beispiel mir zwei Robotic Arms die gegeneinander Tic Tac Toe spielen.
 
-Die ursprüngliche Spielidee stammt aus dem Buch:
+Die ursprüngliche Spielidee stammt aus dem Buch von Al Sweigart.
 
-Eigene Spiele programmieren – Python lernen: Der spielerische Weg zur Programmiersprache11. September 2017 von Al Sweigart und Volkmar Gronau Verlag: dpunkt.verlag GmbH (11. September 2017) Sprache: Deutsch ISBN-10: 3864904927 ISBN-13: 978-3864904929
-
-Invent Your Own Computer Games with Python16. Dezember 2016 von Al Sweigart Verlag: No Starch Press; Auflage: 4 (2. Januar 2017) Sprache: Englisch ISBN-10: 1593277954 ISBN-13: 978-1593277956
-
-Ich habe den Code für die Robotic Arms hinzugefügt, den KI Code erweitert,  so dass beide ohne jegliche Außen Einwirkung miteinander spielen können.
+Ich habe den Code für die Robotic Arms hinzugefügt, und den KI Code erweitert, so dass beide ohne jegliche Außen Einwirkung miteinander spielen können.
 
 https://youtu.be/zJsN2RCMbR
 
