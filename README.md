@@ -67,7 +67,7 @@ Die ursprüngliche Spielidee stammt aus dem Buch von Al Sweigart.
 
 Ich habe den Code für die Robotic Arms hinzugefügt, und den KI Code erweitert, so dass beide ohne jegliche Außen Einwirkung miteinander spielen können.
 
-https://youtu.be/zJsN2RCMbR
+https://youtu.be/zJsN2RCMbRs
 
 
 
