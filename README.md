@@ -52,3 +52,8 @@ Der Code ist sicherlich nicht perfekt, aber er sollte Mut für eigene Projekte h
 
 https://youtu.be/ezaF2YjDesU
 
+
+**Xbox360_Controller.py**
+Ein kleines Beispiel, wie der Xbox Controller den Uarm swift pro steuern kann.
+X,Y,Z, Suction, Greifer und Handgelenk sind steuerbar.
+Das Python-Programm ist sehr einfach und funktioniert sicher auch mit anderen Controllern.
