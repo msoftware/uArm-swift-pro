@@ -69,6 +69,11 @@ Ich habe den Code für die Robotic Arms hinzugefügt, und den KI Code erweitert,
 
 https://youtu.be/zJsN2RCMbRs
 
+**uArm_Clock.py**
+
+Ein kleines Beispiel mit zwei uArm Swift pro.
+
+https://youtu.be/ZCBTO8UFN14
 
 
 
