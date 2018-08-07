@@ -75,6 +75,15 @@ Ein kleines Beispiel mit zwei uArm Swift pro.
 
 https://youtu.be/ZCBTO8UFN14
 
+**xylophon.zip**
+uArm spielt Xylophon. Ein kleines Beispiel programmiert mit Python und Tkinder. 
+Einige Songdateien ind ABC Notation habe ich beigefügt. Über entsprechende 'txt' Dateien können sehr einfach eigene Songs beigefügt werden.
+
+uArm spielt 'Ode to Joy' von Beethoven 
+https://youtu.be/wm_E4SnGPwo
+
+uArm spielt 'Lullaby' von Johannes Brahms 
+https://youtu.be/lTUySBjN1AY
 
 
 
