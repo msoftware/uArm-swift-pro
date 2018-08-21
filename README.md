@@ -87,4 +87,13 @@ uArm spielt 'Lullaby' von Johannes Brahms
 https://youtu.be/lTUySBjN1AY
 
 
+**hanoi.py**
+
+uArm spielt 'Tower of Hanoi' mit 6 Scheiben. Ich habe die Pyhton Programmierung einfach und nachvollziehbar gestaltet.
+Auf rekursive Funktionen habe ich bewusst verzichtet, so dass es für 'Programmiereinsteiger' gut geeignet ist.   
+
+https://youtu.be/hgEVaCcYKlQ
+
+
+
 
